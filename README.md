@@ -18,5 +18,3 @@ A simple web app built with React to log your daily steps and calories.
 2. Run `npm install`
 3. Run `npm start`
 
-## 🌍 Live Demo
-[View on GitHub Pages](https://your-username.github.io/fitness-tracker)
