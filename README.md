@@ -9,8 +9,3 @@ A simple web app built with React to log your daily steps and calories.
 - View entries in a table
 - Data saved in browser storage
 
-## Tech Stack
-- React.js
-- HTML, CSS, JavaScript
-
-
