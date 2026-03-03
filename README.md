@@ -8,12 +8,6 @@ Log your daily steps and calories burned – everything stays in your browser.
 
 </div>
 
-<br>
-
-<p align="center">
-  <img src="https://via.placeholder.com/880x520/0d1117/00d084?text=FitOS+Lite+Tracker+Screenshot" alt="FitOS Lite Preview" width="780"/>
-  <!-- Replace with your real screenshot -->
-</p>
 
 <br>
 
