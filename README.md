@@ -1,6 +1,6 @@
 <div align="center">
 
-# FitOS 🏋️
+# Fit OS 🏋️
 
 ### Simple Fitness Tracker – Pure HTML, CSS & JavaScript
 
