@@ -48,6 +48,7 @@ Perfect for:
    - Vercel
    - Render
    - Static.app
+___
 
 ## 📥 How to use / customize
 
